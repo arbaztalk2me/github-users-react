@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.height-error{
+  height: 90vh;
+}
+.img-container{
+  height: 456px;
+  width: 456px;
+}
+.img-container img{
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+
+
